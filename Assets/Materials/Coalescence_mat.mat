@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Coalescence_mat
+  m_Name: Coalescence_Mat
   m_Shader: {fileID: 4800000, guid: d3d55ca0f665e49b8bd51a259812414a, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
