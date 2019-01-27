@@ -191,7 +191,7 @@ MonoBehaviour:
     hdShadowInitParams:
       shadowAtlasResolution: 4096
       maxShadowRequests: 128
-      shadowMapsDepthBits: 24
+      shadowMapsDepthBits: 32
       useDynamicViewportRescale: 1
       shadowQuality: 0
     decalSettings:
