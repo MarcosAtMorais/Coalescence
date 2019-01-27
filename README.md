@@ -6,4 +6,3 @@ Recreation of a known loading effect for educational purposes. This was built to
 <p align="center"> 
   <img src="https://thumbs.gfycat.com/WhimsicalCreepyGlassfrog-size_restricted.gif">
 </p>
-
